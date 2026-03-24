@@ -12,4 +12,4 @@ Tools used:
 - Data Analysis
 
 Tableau link:
-PASTE_LINK_HERE
+https://public.tableau.com/views/DownTimeAnalysisDashboard_17743659639460/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
