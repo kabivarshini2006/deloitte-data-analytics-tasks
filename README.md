@@ -12,4 +12,4 @@ Tools used:
 - Data Analysis
 
 Tableau link:
-hhttps://public.tableau.com/app/profile/kabi.varshini/viz/DownTimeAnalysisDashboard_17743659639460/Dashboard1
+https://public.tableau.com/app/profile/kabi.varshini/viz/DownTimeAnalysisDashboard_17743659639460/Dashboard1
